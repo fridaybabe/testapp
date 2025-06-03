@@ -1,7 +1,6 @@
 # MyApp Android Releases
 
-Download the latest APK:
-[app-release.apk](app-release.apk)
+Download the latest APK
 
 ## Installation Guide
 1. Download the APK
